@@ -46,17 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
-
----
 
 ## 📈 Most Used Languages
 
@@ -68,9 +57,9 @@
 
 ## 🤝 Connect With Me
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: https://linkedin.com/in/your-profile  
-🐙 GitHub: https://github.com/your-username  
+📧 Email: your-shivamsingh811302@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/shivam-kumar-652201256/  
+🐙 GitHub: https://github.com/shivamkr072004  
 
 ---
 
